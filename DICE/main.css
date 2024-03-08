@@ -1,0 +1,62 @@
+.container {
+    display: flex;
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    align-content: center;
+  }
+
+body {
+    background-color: black;
+}
+h1 {
+    font-family: 'Circus', sans-serif;
+    color: #F72798;
+    font-size: 4rem;                                                
+}
+
+.players-font {
+    font-family: 'Cracksmoon', sans-serif;
+    color: #F57D1F;
+    font-size: 3rem;
+
+}
+
+.footer-text {
+    font-family: 'Courier New', Courier, monospace;
+    color: #F72798;
+    font-size: 1rem;
+
+}
+
+.container {
+    width: 70%;
+    justify-content: center;
+    align-items: center;
+}
+
+/* .trophy-img {
+    background-color: black;
+    visibility: hidden;
+  }
+   */
+
+.player1Trophy {
+    visibility: hidden;
+}
+
+.player2Trophy {
+    visibility: hidden;
+}
+
+.scoreFont {
+    color: #2192FF;
+}
+
+#p1Points {
+
+}
+
+#p2Points {
+    
+}
